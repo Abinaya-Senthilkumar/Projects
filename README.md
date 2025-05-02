@@ -6,7 +6,7 @@ The project designs an interactive dashboard for sales team managers of a compan
 
 Dataset Source: [CRM Sales Opportunities on Maven Analytics](https://mavenanalytics.io/data-playground)
 
-GitHub Link: [GitHub Repo](https://github.com/glambengco/CRM-Sales-Dashboard)
+GitHub Link: [GitHub Repo](https://github.com/Abinaya-Senthilkumar/Projects/tree/CRM_SALES)
 
 Tools Used: #SQL #PowerBI
 
