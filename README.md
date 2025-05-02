@@ -1,4 +1,4 @@
-# CRM Sales Dashboard - End-to-End SQL and Power BI Project
+# CRM Sales Dashboard
 
 # Project Overview
 
